@@ -38,7 +38,7 @@
 
 ### mac用户
 
-在 AppStore 安装应用 appIconMaker 根据应用内指引导出`AppIcon.appiconset`
+- 在 AppStore 安装应用 appIconMaker 根据应用内指引导出`AppIcon.appiconset`
 
 ### 非mac
 
@@ -52,7 +52,7 @@
 
 ## 5. 制作`.icns`(可选)
 
-有些框架(如 Flutter)的打包流程只需要`AppIcon.appiconset`就可以产出图标正常的应用包，无需压合`.icns`
+- 有些框架(如 Flutter)的打包流程只需要`AppIcon.appiconset`就可以产出图标正常的应用包，无需压合`.icns`
 
 ### mac用户
 
